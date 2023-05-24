@@ -47,9 +47,9 @@
       "path": "languages/en.json"
     }
   ],
-  "url": "This is auto replaced",
-  "manifest": "This is auto replaced",
-  "download": "This is auto replaced",
+  "url": "https://github.com/anthonywaters/foundry-bitd-alternate-sheets/",
+  "manifest": "https://raw.githubusercontent.com/anthonywaters/foundry-bitd-alternate-sheets/dev/module.json",
+  "download": "https://github.com/anthonywaters/foundry-bitd-alternate-sheets/archive/dev.zip",
   "media": [
     {
       "type": "icon",
