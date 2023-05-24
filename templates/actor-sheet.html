@@ -23,7 +23,7 @@
 
         </div><div class="stress-trauma-box">
           <header class="stress-bar full-bar">
-            {{localize data.stress.name}}
+            <a class="indulge-vice-label roll-die-attribute rollable-text" data-roll-attribute="BITD.Vice">{{localize data.stress.name}}</a>
             <div class="stripe-tooth-body stress">
             {{#multiboxes data.stress.value}}
               <input type="radio" id="{{../actor._id}}-stress-0"
